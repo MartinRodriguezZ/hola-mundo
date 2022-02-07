@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba.
+# hola Mundo
+Mi primer repositorio.
 
 Autor: Martin Rodriguez.
 Fecha: 7 de Enero.
